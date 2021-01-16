@@ -19,3 +19,7 @@ body {
     rgba(105, 0, 199, 1) 100%
   );
 }
+
+.feature {
+  color: white;
+}
