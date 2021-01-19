@@ -59,3 +59,15 @@ body {
 .services {
   color: whitesmoke;
 }
+
+footer {
+  color: white;
+  font-size: 1rem;
+  margin: 0;
+  padding: 1rem;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
